@@ -2,6 +2,9 @@
 
 Mayın Tarlası tarzında, React ile geliştirilmiş modern bir web oyunu.
 
+#DEMO LİNKİ
+https://mayin-oyunu.vercel.app
+
 ## 🎮 Özellikler
 
 - **3 Zorluk Seviyesi** — Kolay (3-5 mayın), Orta (8-10 mayın), Zor (15-20 mayın)
